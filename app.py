@@ -1,6 +1,5 @@
 import streamlit as st
-st.write("
-         # Odd Even Tracker")
+st.title("Odd Even Tracker")
 num = st.number_input("Enter number",min_value = 1,step = 1)
 if (num % 2 == 0):
          st.write("The number is even")
