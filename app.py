@@ -6,4 +6,4 @@ if (num % 2 == 0):
 else:
          st.write("The number is odd")
 st.write("Assignment by Rajkishore Nandi")
-st.write("Rollno- 22f1006016"")
+st.write("Rollno- 22f1006016")
